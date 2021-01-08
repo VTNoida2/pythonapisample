@@ -1,0 +1,1 @@
+antenv3.6\scripts\python -m pip install --upgrade pip

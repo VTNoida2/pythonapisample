@@ -1,1 +1,1 @@
-antenv3.6\scripts\python -m pip install --upgrade pip
+\home\site\wwwroot -m pip install --upgrade pip

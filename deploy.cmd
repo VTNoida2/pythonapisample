@@ -1,1 +1,0 @@
-\home\site\wwwroot -m pip install --upgrade pip
